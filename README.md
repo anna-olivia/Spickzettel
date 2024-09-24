@@ -1,5 +1,17 @@
 # HTML und CSS Spickzettel 💻🤓💡
 
+<!-- In einem Linux-System gibt es mehrere wichtige Verzeichnisse, die mit Vorsicht behandelt werden sollten, da sie kritische Systemdateien und Konfigurationen enthalten. Hier sind einige der wichtigsten:
+
+/ (Root-Verzeichnis): Das oberste Verzeichnis, von dem alle anderen Verzeichnisse abzweigen. Änderungen hier können das gesamte System beeinflussen1.
+/boot: Enthält die Bootloader-Dateien und den Kernel. Änderungen können dazu führen, dass das System nicht mehr startet1.
+/etc: Beinhaltet alle wichtigen Systemkonfigurationsdateien. Fehlerhafte Änderungen können die Systemkonfiguration beeinträchtigen2.
+/home: Hier befinden sich die persönlichen Dateien und Einstellungen der Benutzer. Es ist wichtig, regelmäßig Backups zu machen2.
+/root: Das Home-Verzeichnis des Root-Benutzers. Änderungen sollten nur mit Bedacht vorgenommen werden3.
+/var: Enthält variable Daten wie Logs, Mails und temporäre Dateien. Änderungen können die Systemprotokollierung und andere Dienste beeinflussen3.
+/bin und /sbin: Enthalten grundlegende Systemprogramme und -befehle. Änderungen können dazu führen, dass grundlegende Befehle nicht mehr funktionieren2.
+/dev: Beinhaltet Gerätedateien. Änderungen können die Hardwarekommunikation beeinträchtigen2.
+Es ist immer ratsam, vor Änderungen an diesen Verzeichnissen ein Backup zu erstellen und sicherzustellen, dass man genau weiß, was man tut. -->
+
 ## Allgemein
 
 [HTML](#1-html-die-websprache-für-das-gerüst-einer-website) und [CSS](#2-css-die-websprache-für-die-gestaltung-einer-website) sind Websprachen. Sie werden von Webentwickler*innen genutzt, um über den Webbrowser Webauftritte überhaupt erstmal anzeigen zu lassen.  Sobald wir HTML und CSS verwenden, kommunizieren wir mit dem Webbrowser. Wir kommunizieren über Code mit dem Webbrowser, der wiederum den Code den Nutzern unserer Website "übersetzt". Nutzer können sich über eine statische Website über bestimmte Themen informieren. Sobald Nutzer mit der Website (auch oft dann WebApp) interagieren, kommt die Skriptsprache [JavaScript](#3-js-die-websprache-für-die-dynamik-einer-website) hinzu. Alle drei Websprachen zusammen werden im **Frontend** – der Aufgabenbereich, der sich auf die Benutzeroberfläche konzentriert – genutzt. 
