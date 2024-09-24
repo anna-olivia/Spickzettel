@@ -38,6 +38,7 @@
 
 <br><br><br>
 
+<!-- 
 
 ## 1. HTML die Websprache für die logische Struktur des Inhalts einer Website
 
@@ -49,6 +50,8 @@
 ```
 ``` 
 <!-- Ich bin ein HTML Kommentar -->
+
+<!--
  ```
 ---
 
@@ -347,6 +350,8 @@ von Zuständigkeiten** (jede Websprache hat ihren Aufgabenbereich) nicht befolgt
 
 <br>
 
+-->
+
 ## 4. Nützliche Tastenkombinationen
 
 Tastenkombinationen, die in **VS Code** und anderen Programmen funktionieren:
@@ -372,7 +377,7 @@ Diese praktischen Kombinationen funktionieren nur in VS Code unter windows:
 - `p` + `tab`          = erzeugt ein HTML Textabsatz (wenn ihr h1 wählt erzeugt es eine h1 Überschrift etc.)
 - `AltGr` + `7`        = erzeugt die geschweiften Klammern , den Deklarationsblock in CSS `{ }`
 
-**nur wenn man sich mit allen anderen Tastenkombinationen wohlfühlt:**
+**Bonus:**
 
 - `Alt` + `Pfeiltaste` = Zeilen verschieben, hoch/runter
 - `Alt` + `z`          = Zeilenumbruch anschalten/ausschalten
@@ -380,7 +385,7 @@ Diese praktischen Kombinationen funktionieren nur in VS Code unter windows:
 
 <br><br>
 
-
+<!-- 
 #### Emmet Abkürzungen in VS Code
 
 Emmet sind Kurzformen, die VS Code zu Code umschreibt, hier einige kurze Beispiele für ***HTML***:
@@ -399,3 +404,4 @@ Emmet sind Kurzformen, die VS Code zu Code umschreibt, hier einige kurze Beispie
 [zurück zur Inhaltsübersicht](#inhalt)
  <br>
 
+-->
